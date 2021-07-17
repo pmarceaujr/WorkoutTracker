@@ -64,7 +64,7 @@ No other contributors at this time
 ## **Deployed** **Link**
 
 [Link to GIT repo](https://github.com/pmarceaujr/WorkoutTracker)<br>
-[Deployed App Link](./includes/images/Screenshot1.png)
+[Deployed App Link](https://pmarceaujr-workout-tracker.herokuapp.com/)
 
 ## **License**
 
